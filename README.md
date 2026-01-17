@@ -18,10 +18,10 @@ This project demonstrates basic DOM manipulation and event handling.
 - Flexbox for layout
 
 ## 📂 Project Structure
+```
 counter-dom-project/
-
 │── index.html
-
 │── style.css
-
 │── script.js
+```
+
